@@ -1,0 +1,7 @@
+
+id,text,annotator_a,annotator_b
+1,My order is delayed,Negative,Negative
+2,The product is excellent,Positive,Negative
+3,I want to return my damaged item,Negative,Neutral
+4,How do I reset my password,Neutral,Neutral
+5,Please cancel my order,Neutral,Negative

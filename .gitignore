@@ -1,0 +1,22 @@
+
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# API keys and secrets
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Local database
+data/dataforge.db
+data/*.db
+*.sqlite
+*.sqlite3
+
+# Local generated files
+data/processed/
+exports/
