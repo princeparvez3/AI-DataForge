@@ -7,7 +7,7 @@ AI DataForge is a Python-based application for preparing datasets, reviewing ann
 
 ## Live Demo
 
-**Try the application: https://ai-dataforge-3tmqxouqfrkefayf3cb7ak.streamlit.app/
+Try the application: https://ai-dataforge-3tmqxouqfrkefayf3cb7ak.streamlit.app/
 
 ## Features
 
