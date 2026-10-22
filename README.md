@@ -175,3 +175,5 @@ AI DataForge is an actively developed portfolio project. Features and integratio
 ## Author
 
 Prince Parvez
+
+Portfolio: https://princeparvez3.github.io/princeparvez-portfolio/
